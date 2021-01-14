@@ -32,7 +32,7 @@ To begin contributing, [sign the CLA](https://diem.com/en-US/cla-sign/). You can
 * [JSON-RPC SPEC](json-rpc/json-rpc-spec.md)
 
 ### Try Diem Core
-* [My First Transaction](https://developers.diem.com/docs/my-first-transaction)
+* [My First Transaction](https://developers.diem.com/docs/tutorials/my-first-transaction/)
 * [Getting Started With Move](https://developers.diem.com/docs/move-overview)
 
 ### Technical Papers
